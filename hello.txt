@@ -4,5 +4,7 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
-marst test!
-
+Hello Git!
+master test!
+hot-fix test！
+>>>>>>> hot-fix
