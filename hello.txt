@@ -4,7 +4,5 @@ Hello Git!
 Hello Git!
 Hello Git!
 Hello Git!
-Hello Git!
-master test!
-hot-fix test！
->>>>>>> hot-fix
+test test test master修改！
+>>>>>>> 5b407f08244f9330cb8dff5719aefd64b62ee0ae
